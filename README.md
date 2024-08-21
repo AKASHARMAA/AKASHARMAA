@@ -10,7 +10,6 @@
 - 🌱 I’m continuously learning and improving my skills
 - 👯 I’m looking to collaborate on **exciting web development projects**
 - 💬 Ask me about anything related to **React, Node.js, Express.js, MySQL, and MongoDB**
-- 😄 Pronouns: Dipans
 - ⚡ Fun fact: The only language where null == undefined but also null !== undefined. JavaScript, keeping it ambiguous.
 
 ## About Me 🙋‍♂️
