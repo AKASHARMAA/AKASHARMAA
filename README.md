@@ -26,5 +26,4 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 
 ## Current Stats: 
-![Akas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHARMAA&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AKASHARMAA)](https://git.io/streak-stats)
