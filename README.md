@@ -15,7 +15,7 @@
 ## About Me 🙋‍♂️
 A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
 
-- LinkedIn : [https://www.linkedin.com/in/akash-thousand//]([https://www.linkedin.com/in/akash-thousand//]) 
+- LinkedIn : [https://www.linkedin.com/in/akash-thousand/]([https://www.linkedin.com/in/akash-thousand//]) 
 - Email: akash.76648@gmail.com
 - Resume Drive Link: https://drive.google.com/file/d/1QPxUsyLVZcyalreWqHtJTMM1Fc_i5Dpa/view?usp=sharing
 
