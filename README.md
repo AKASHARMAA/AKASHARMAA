@@ -1,16 +1,31 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**AKASHARMAA/AKASHARMAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I am Akash Sharma 👨‍💻
 
-Here are some ideas to get you started:
+ 
+- 🔭 I’m currently working on **Full-stack Web Development with React, Node.js, and MongoDB, MySQL** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m continuously learning and improving my skills
+- 👯 I’m looking to collaborate on **exciting web development projects**
+- 💬 Ask me about anything related to **React, Node.js, Express.js, MySQL, and MongoDB**
+- 😄 Pronouns: Dipans
+- ⚡ Fun fact: The only language where null == undefined but also null !== undefined. JavaScript, keeping it ambiguous.
+
+## About Me 🙋‍♂️
+A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
+
+- LinkedIn : [https://www.linkedin.com/in/akash-thousand//]([https://www.linkedin.com/in/akash-thousand//]) 
+- Email: akash.76648@gmail.com
+- Resume Drive Link: https://drive.google.com/file/d/1QPxUsyLVZcyalreWqHtJTMM1Fc_i5Dpa/view?usp=sharing
+
+## Languages and Tools 🔠
+
+[![My Skills](https://skillicons.dev/icons?i=mui,github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,mysql,git,postman,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Current Stats: 
+![Akas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHARMAA&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AKASHARMAA)](https://git.io/streak-stats)
