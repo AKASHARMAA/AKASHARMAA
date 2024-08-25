@@ -5,12 +5,15 @@
 # Hi there 👋 I am Akash Sharma 👨‍💻
 
  
-- 🔭 I’m currently working on **Full-stack Web Development with React, Node.js, and MongoDB, MySQL** 
+🚀 Software Development Engineer | Bangalore, India
 
-- 🌱 I’m continuously learning and improving my skills
-- 👯 I’m looking to collaborate on **exciting web development projects**
-- 💬 Ask me about anything related to **React, Node.js, Express.js, MySQL, and MongoDB**
-- ⚡ Fun fact: The only language where null == undefined but also null !== undefined. JavaScript, keeping it ambiguous.
+- 🔧 Currently Diving Deep into: Full-stack development with Java, Spring Boot, React, and Ruby. Crafting code that scales and systems that shine!
+
+- 💬 Let's Chat About: Microservices, automated workflows, or your next big tech project! I'm passionate about leveraging design patterns and innovative solutions to tackle complex problems.
+
+- 🔍 Looking For: Exciting opportunities to collaborate on groundbreaking web development projects and push the boundaries of technology.
+
+- 🤓 Fun Fact: JavaScript—where null == undefined but null !== undefined. Keeping things wonderfully ambiguous!
 
 ## About Me 🙋‍♂️
 A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
