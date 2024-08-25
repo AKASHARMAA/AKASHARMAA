@@ -5,7 +5,7 @@
 # Hi there 👋 I am Akash Sharma 👨‍💻
 
  
-🚀 Software Development Engineer | Bangalore, India
+- 🚀 Software Development Engineer | Bangalore, India
 
 - 🔧 Currently Diving Deep into: Full-stack development with Java, Spring Boot, React, and Ruby. Crafting code that scales and systems that shine!
 
