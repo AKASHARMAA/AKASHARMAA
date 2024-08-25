@@ -25,8 +25,6 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 ## Languages and Tools 🔠
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,spring,react,ruby,mongodb,kafka,redis,docker,aws&theme=light)](https://skillicons.dev)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Current Stats: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AKASHARMAA)](https://git.io/streak-stats)
