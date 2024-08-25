@@ -17,11 +17,11 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 - LinkedIn : [https://www.linkedin.com/in/akash-thousand/]([https://www.linkedin.com/in/akash-thousand//]) 
 - Email: akash.76648@gmail.com
-- Resume Drive Link: https://drive.google.com/file/d/1QPxUsyLVZcyalreWqHtJTMM1Fc_i5Dpa/view?usp=sharing
+- Resume Drive Link: [Akash Resume.pdf](https://drive.google.com/file/d/1LmJnsI8wgvOayaRoJ8O-IOQBwTi9cHRu/view?usp=sharing)
 
 ## Languages and Tools 🔠
 
-[![My Skills](https://skillicons.dev/icons?i=mui,github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,mysql,git,postman,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,kafka,redis,chef,docker,aws&theme=light)](https://skillicons.dev)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
