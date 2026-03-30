@@ -20,7 +20,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 - LinkedIn : [https://www.linkedin.com/in/akash-thousand/]([https://www.linkedin.com/in/akash-thousand//]) 
 - Email: akash.76648@gmail.com
-- Resume Drive Link: [Akash Resume.pdf](https://drive.google.com/file/d/1LmJnsI8wgvOayaRoJ8O-IOQBwTi9cHRu/view?usp=sharing)
+- Resume Drive Link: [Akash Resume.pdf](https://drive.google.com/file/d/1-U0ZvCNmz2T8xA1grLCLmVRVXHbdxas-/view?usp=sharing)
 
 ## Languages and Tools 🔠
 
